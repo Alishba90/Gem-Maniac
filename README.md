@@ -1,6 +1,8 @@
 # Gem-Maniac
 3D Platform Game built using Unity (C#)
 
+![image](https://user-images.githubusercontent.com/59261973/155738689-d8545582-dbe0-4b03-a485-0ea4e7cdcef1.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/59261973/155738129-d21cf706-063d-437c-ad01-961162c3794e.png)
